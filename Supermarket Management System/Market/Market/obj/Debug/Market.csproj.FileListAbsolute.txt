@@ -1,0 +1,133 @@
+C:\Users\USER\source\repos\Market\Market\bin\Debug\Market.exe.config
+C:\Users\USER\source\repos\Market\Market\bin\Debug\Market.exe
+C:\Users\USER\source\repos\Market\Market\bin\Debug\Market.pdb
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.Form1.resources
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.ProductForm.resources
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.Sellerform.resources
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.SellingForm.resources
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.SignUpForm.resources
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.exe
+C:\Users\USER\source\repos\Market\Market\obj\Debug\Market.pdb
+H:\Market\Market\bin\Debug\Market.exe.config
+H:\Market\Market\bin\Debug\Market.exe
+H:\Market\Market\bin\Debug\Market.pdb
+H:\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+H:\Market\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+H:\Market\Market\obj\Debug\Market.Form1.resources
+H:\Market\Market\obj\Debug\Market.ProductForm.resources
+H:\Market\Market\obj\Debug\Market.Properties.Resources.resources
+H:\Market\Market\obj\Debug\Market.Sellerform.resources
+H:\Market\Market\obj\Debug\Market.SellingForm.resources
+H:\Market\Market\obj\Debug\Market.SignUpForm.resources
+H:\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+H:\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+H:\Market\Market\obj\Debug\Market.exe
+H:\Market\Market\obj\Debug\Market.pdb
+H:\Market\Market\obj\Debug\Market.ManageCustomer.resources
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.Form1.resources
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.ManageCustomer.resources
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.ProductForm.resources
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.Properties.Resources.resources
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.Sellerform.resources
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.SellingForm.resources
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.SignUpForm.resources
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.exe
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\obj\Debug\Market.pdb
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\bin\Debug\Market.exe.config
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\bin\Debug\Market.exe
+H:\8th Semestar\OOP2\New folder (2)\Market\Market\bin\Debug\Market.pdb
+C:\Users\Asus\Downloads\Market (3)\Market\Market\bin\Debug\Market.exe.config
+C:\Users\Asus\Downloads\Market (3)\Market\Market\bin\Debug\Market.exe
+C:\Users\Asus\Downloads\Market (3)\Market\Market\bin\Debug\Market.pdb
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.Form1.resources
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.ManageCustomer.resources
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.ProductForm.resources
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.Sellerform.resources
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.SellingForm.resources
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.SignUpForm.resources
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.exe
+C:\Users\Asus\Downloads\Market (3)\Market\Market\obj\Debug\Market.pdb
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\bin\Debug\Market.exe.config
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\bin\Debug\Market.exe
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\bin\Debug\Market.pdb
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.Form1.resources
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.ManageCustomer.resources
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.ProductForm.resources
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.Properties.Resources.resources
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.Sellerform.resources
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.SellingForm.resources
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.SignUpForm.resources
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.exe
+H:\8th Semestar\OOP2\New folder (2)\Market (3)\Market\Market\obj\Debug\Market.pdb
+D:\Market (4)\Market (3)\Market\Market\bin\Debug\Market.exe.config
+D:\Market (4)\Market (3)\Market\Market\bin\Debug\Market.exe
+D:\Market (4)\Market (3)\Market\Market\bin\Debug\Market.pdb
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.Form1.resources
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.ManageCustomer.resources
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.ProductForm.resources
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.Properties.Resources.resources
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.Sellerform.resources
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.SellingForm.resources
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.SignUpForm.resources
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.exe
+D:\Market (4)\Market (3)\Market\Market\obj\Debug\Market.pdb
+D:\Market\Market\Market\bin\Debug\Market.exe.config
+D:\Market\Market\Market\bin\Debug\Market.exe
+D:\Market\Market\Market\bin\Debug\Market.pdb
+D:\Market\Market\Market\bin\Debug\EntityFramework.dll
+D:\Market\Market\Market\bin\Debug\EntityFramework.SqlServer.dll
+D:\Market\Market\Market\bin\Debug\EntityFramework.xml
+D:\Market\Market\Market\bin\Debug\EntityFramework.SqlServer.xml
+D:\Market\Market\Market\obj\Debug\Market.Form1.resources
+D:\Market\Market\Market\obj\Debug\Market.ManageCustomer.resources
+D:\Market\Market\Market\obj\Debug\Market.ProductForm.resources
+D:\Market\Market\Market\obj\Debug\Market.Properties.Resources.resources
+D:\Market\Market\Market\obj\Debug\Market.Sellerform.resources
+D:\Market\Market\Market\obj\Debug\Market.SellingForm.resources
+D:\Market\Market\Market\obj\Debug\Market.SignUpForm.resources
+D:\Market\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+D:\Market\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+D:\Market\Market\Market\obj\Debug\Market.csproj.CopyComplete
+D:\Market\Market\Market\obj\Debug\Market.exe
+D:\Market\Market\Market\obj\Debug\Market.pdb
+D:\Market\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\bin\Debug\Market.exe.config
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\bin\Debug\Market.exe
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\bin\Debug\Market.pdb
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\bin\Debug\EntityFramework.dll
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\bin\Debug\EntityFramework.SqlServer.dll
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\bin\Debug\EntityFramework.xml
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\bin\Debug\EntityFramework.SqlServer.xml
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.Form1.resources
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.ManageCustomer.resources
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.ProductForm.resources
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.Properties.Resources.resources
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.Sellerform.resources
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.SellingForm.resources
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.SignUpForm.resources
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.csproj.CopyComplete
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.exe
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.pdb
+H:\8th Semestar\OOP2\New folder\Market\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
